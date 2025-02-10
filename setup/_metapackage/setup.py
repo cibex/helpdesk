@@ -18,6 +18,7 @@ setuptools.setup(
         'odoo-addon-helpdesk_portal_restriction>=16.0dev,<16.1dev',
         'odoo-addon-helpdesk_product>=16.0dev,<16.1dev',
         'odoo-addon-helpdesk_ticket_close_inactive>=16.0dev,<16.1dev',
+        'odoo-addon-helpdesk_ticket_open_tab>=16.0dev,<16.1dev',
         'odoo-addon-helpdesk_ticket_partner_response>=16.0dev,<16.1dev',
         'odoo-addon-helpdesk_type>=16.0dev,<16.1dev',
     ],
