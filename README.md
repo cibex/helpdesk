@@ -33,6 +33,7 @@ addon | version | maintainers | summary
 [helpdesk_ticket_close_inactive](helpdesk_ticket_close_inactive/) | 16.0.1.1.0 | [![miquelalzanillas](https://github.com/miquelalzanillas.png?size=30px)](https://github.com/miquelalzanillas) | Helpdesk Ticket Close Inactive
 [helpdesk_ticket_open_tab](helpdesk_ticket_open_tab/) | 16.0.1.0.0 | [![peluko00](https://github.com/peluko00.png?size=30px)](https://github.com/peluko00) | Helpdesk Ticket Open Tab
 [helpdesk_ticket_partner_response](helpdesk_ticket_partner_response/) | 16.0.1.1.0 | [![peluko00](https://github.com/peluko00.png?size=30px)](https://github.com/peluko00) | Change ticket stage when partner response
+[helpdesk_ticket_related](helpdesk_ticket_related/) | 16.0.1.0.0 | [![peluko00](https://github.com/peluko00.png?size=30px)](https://github.com/peluko00) | Link tickets to each other
 [helpdesk_type](helpdesk_type/) | 16.0.1.1.0 | [![nelsonramirezs](https://github.com/nelsonramirezs.png?size=30px)](https://github.com/nelsonramirezs) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Add a type to your tickets
 
 [//]: # (end addons)
